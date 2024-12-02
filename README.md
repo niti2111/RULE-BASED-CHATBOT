@@ -1,7 +1,5 @@
 # RULE-BASED-CHATBOT
 
-# Rule-Based Chatbot
-
 This is a simple **rule-based chatbot** where you define specific outputs based on user inputs. The chatbot responds to queries based on pre-defined patterns and keywords.
 
 ---
